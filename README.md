@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Rafael and I'm a Software Developer, from Brazil</h2>
+<h2 align="left">Hey 👋 What's up?</h2>
+<p align="left">My name is Rafael and I'm a Software Developer, from Brazil</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning System Design<br>🎯 Goals: Land my first full-time backend role & contribute to open source<br>🎲 Fun fact: A cloud weighs around a million tonnes.</p>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
@@ -13,7 +26,11 @@
 
 ###
 
-<div align="center">
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -61,8 +78,6 @@
 <img src="https://raw.githubusercontent.com/rafastos/rafastos/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
-
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/69db824e-bf9a-43f6-b233-e0d84980e01d/thumbnail" >
