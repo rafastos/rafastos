@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning System Design<br>🎯 Goals: Land my first full-time backend role & contribute to open source<br>🎲 Fun fact: A cloud weighs around a million tonnes.</p>
+<p align="left">✨ Solving bugs since 2022<br>📚 Currently learning System Design<br>🎯 Goals: Land my first full-time backend role & contribute to open source<br>🎲 Fun fact: A cloud weighs around a million tonnes.</p>
 
 ###
 
